@@ -1,5 +1,5 @@
 body {
-  background-color: #E4F9F5;
+
   text-align: center;
   margin: 0;
   font-family: 'Montserrat';
@@ -12,6 +12,7 @@ hr{
   border-width: 5px;
 }
 .top{
+  background-color: #E4F9F5;
   position: relative;
   padding-top: 5%;
   margin-bottom: 5rem;
